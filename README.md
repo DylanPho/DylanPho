@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Erik Cupsa</h1>
+<h1 align="center">Hi 👋 I'm Dylan Phoutthavong</h1>
 
 # 💫 About Me:
 I am a fourth-year computer science student at the University of Colorado Denver<br><br>My passion lies in the tech industry, particularly in software development, where I aspire to contribute to innovative solutions as both a back-end and front-end developer. With years of experience in tech and customer service roles under my belt, I've honed my skills in problem-solving and communication.
