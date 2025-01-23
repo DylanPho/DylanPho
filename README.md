@@ -7,7 +7,7 @@ I am a fourth-year computer science student at the University of Colorado Denver
 
 ## 🚀 What I'm Up To
 
-- 💻 Currently applying for internships for Summer 2025
+- 💻 Currently accepted an internship offer for Summer 2025! 🥳
 - 🤖 Finishing my studies in Algorithms, Database System Concepts, Fundamentals of UNIX, and IoT.
   
 ## 🌐 Connect with me:
