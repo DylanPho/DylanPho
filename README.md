@@ -8,7 +8,7 @@ I am a fourth-year computer science student at the University of Colorado Denver
 ## 🚀 What I'm Up To
 
 - 💻 Currently applying for internships for Summer 2025
-- 🤖 Finishing my studies in discrete math, data structures, and AI/ML
+- 🤖 Finishing my studies in Algorithms, Database System Concepts, Fundamentals of UNIX, and IoT.
   
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dpho) 
