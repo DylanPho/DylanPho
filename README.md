@@ -7,7 +7,7 @@ I am a fourth-year computer science student at the University of Colorado Denver
 
 ## 🚀 What I'm Up To
 
-- 💻 Currently working as a Netowrk Engineer Intern at Lumen for Summer 2025! 🥳
+- 💻 Currently working as a Netowrk Engineer Intern at Lumen Technologies for Summer 2025! 🥳
 - 🤖 Finishing my studies in Intro to Computer Network.
   
 ## 🌐 Connect with me:
