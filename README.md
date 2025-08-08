@@ -3,12 +3,12 @@
 [![](https://visitcount.itsvg.in/api?id=DylanPho&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-I am a fourth-year computer science student at the University of Colorado Denver<br><br>My passion lies in the tech industry, particularly in software development, where I aspire to contribute to innovative solutions as both a back-end and front-end developer. With years of experience in tech, customer service, and leadership roles under my belt, I've honed my skills in problem-solving and communication.
+I am a fourth-year computer science student at the University of Colorado Denver<br><br>My passion lies in the tech industry, particularly in data anlytics and software development, where I aspire to contribute to innovative solutions as both a full-stack developer and data analyst. With years of experience in tech, customer service, and leadership roles under my belt, I've honed my skills in problem-solving and communication.
 
 ## 🚀 What I'm Up To
 
-- 💻 Currently working as a Netowrk Engineer Intern at Lumen Technologies for Summer 2025! 🥳
-- 🤖 Finishing my studies in Intro to Computer Network.
+- 💻 Finishing my summer as a Netowrk Engineer Intern at Lumen Technologies! 🥳
+- 🤖 Starting my last semester studying Probability & Computing, Mobile App Development, Software Engineering, and GenAI.
   
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dpho) 
